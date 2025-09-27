@@ -30,9 +30,9 @@
 - 💼 **Full-Stack Developer** with expertise in **Enterprise-Grade Applications**
 - 🚀 Building **SaaS Products** with **10,000+ users** potential
 - 🏆 **Problem Solver** with strong foundation in **DSA using Java**
-- 🌱 Currently mastering **Microservices Architecture** & **Cloud Native Development**
+- 🌱 Currently mastering **DSA & LeetCode Development** + **AI Customer Support with Convex, Next.js & AWS**
 - 💡 Passionate about **Mathematics**, **Weightlifting**, and **Open Source**
-- 🎯 **2025 Goals**: Launch 3 Production SaaS Products
+- 🎯 **2025 Goals**: GSOC, Full Stack Development, SaaS Development, DSA Mastery
 - ⚡ **Fun Fact**: I can solve a Rubik's cube in under 2 minutes!
 
 <br clear="both">
@@ -218,7 +218,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Echo — AI SaaS Support System</h3>
+      <h3 align="center">Echo — AI SaaS Customer Support</h3>
       <div align="center">
         <a href="https://github.com/rishabh1721/echo-tutorial" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabh1721&repo=echo-tutorial&theme=radical&hide_border=true" alt="Echo Project" />
@@ -230,8 +230,8 @@
           <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
           <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
         </p>
-        <p><strong>🚀 Enterprise-grade AI-powered customer support platform</strong></p>
-        <p>✨ Features: Multi-tenant architecture, Real-time AI responses, Cloud-scalable infrastructure, Advanced analytics dashboard</p>
+        <p><strong>🤖 AI-powered full-stack customer support platform</strong></p>
+        <p>✨ Features: Convex backend, Next.js monorepo architecture, AWS cloud infrastructure, Real-time AI responses</p>
       </div>
     </td>
     <td width="50%">
@@ -279,22 +279,22 @@
         <br><br>
         <b>🌱 Currently Learning</b>
         <br><br>
-        • Microservices Architecture<br>
-        • System Design Patterns<br>
-        • Web3 & Blockchain<br>
-        • Advanced AWS Services<br>
-        • GraphQL & Apollo
+        • DSA & LeetCode Development<br>
+        • AI Customer Support Systems<br>
+        • Convex + Next.js Architecture<br>
+        • AWS Cloud Infrastructure<br>
+        • Monorepo Development
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/goal.png" width="60" alt="Goals"/>
         <br><br>
         <b>🎯 2025 Goals</b>
         <br><br>
-        • Launch 3 SaaS Products<br>
-        • Contribute to 50+ Open Source<br>
-        • AWS Solutions Architect Cert<br>
-        • Build AI-powered Tools<br>
-        • 500+ GitHub Stars
+        • Google Summer of Code (GSOC)<br>
+        • Full Stack Development Mastery<br>
+        • SaaS Development Excellence<br>
+        • DSA & Competitive Programming<br>
+        • Open Source Contributions
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/collaboration.png" width="60" alt="Collaboration"/>
@@ -305,7 +305,7 @@
         • SaaS Development<br>
         • AI/ML Applications<br>
         • Full-Stack Solutions<br>
-        • Tech Content Creation
+        • GSOC Projects
       </td>
     </tr>
   </table>
@@ -316,17 +316,20 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/rishabh-kumar-1721" target="_blank">
+  <a href="https://www.linkedin.com/in/rishabh-kumar-0b3249339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rishabh1721@gmail.com">
+  <a href="mailto:rishabhmcu001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/rishabh1721" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/rishabh1721" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://instagram.com/rishabh1721" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://dev.to/rishabh1721" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
 </div>
 
