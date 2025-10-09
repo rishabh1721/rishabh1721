@@ -47,6 +47,27 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python&theme=dark" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br><b>TypeScript</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><b>Python</b>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details open>
@@ -55,6 +76,23 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="65" height="65" />
+      <br><b>Next.js</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><b>React.js</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="65" height="65" />
+      <br><b>Tailwind CSS</b>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details open>
@@ -63,6 +101,27 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma&theme=dark" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" height="65" />
+      <br><b>Node.js</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" height="65" />
+      <br><b>Express.js</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="65" height="65" />
+      <br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" height="65" />
+      <br><b>MongoDB</b>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details open>
@@ -71,6 +130,23 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git&theme=dark" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br><b>AWS</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br><b>Docker</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="65" height="65" />
+      <br><b>Vercel</b>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details open>
@@ -79,6 +155,27 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=dark" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br><b>Git/GitHub</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="65" height="65" />
+      <br><b>VS Code</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" />
+      <br><b>Postman</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" height="65" />
+      <br><b>Figma</b>
+    </td>
+  </tr>
+</table>
 </details>
 
 ---
@@ -246,4 +343,3 @@
   <p><b>© 2025 Rishabh Kumar | Full-Stack Developer</b></p>
   <p>Made with ❤️ and lots of ☕</p>
 </div>
-
